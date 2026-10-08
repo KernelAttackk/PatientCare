@@ -58,6 +58,23 @@ The application can generate **100,000 demo patients** on first launch to demons
 
 ---
 
+## Screenshots
+
+### Main Window
+The main patient management screen with search, CRUD operations and appointment overview.
+
+![Main Window](Screens/Main.png)
+
+### Patient Editor
+Patient creation and editing with validation.
+
+![Patient Editor](Screens/Edit.png)
+
+### Appointments
+Appointment management for the selected patient.
+
+![Appointments](Screens/Appointments.png)
+
 ## Architecture
 
 The project intentionally avoids putting all application logic inside the forms.
