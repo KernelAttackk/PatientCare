@@ -1,0 +1,46 @@
+# Delphi build output
+
+*.dcu
+*.dcp
+*.bpl
+*.dres
+*.map
+*.local
+*.identcache
+*.tvsconfig
+*.stat
+*.tmp
+*.~*
+__history/
+__recovery/
+Win32/
+Win64/
+Debug/
+Release/
+
+# Delphi project user settings
+
+*.dproj.local
+*.groupproj.local
+
+# Application database
+
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+
+*.log
+
+# IDE / OS files
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backup files
+
+*.bak
+*.backup
+*.old
